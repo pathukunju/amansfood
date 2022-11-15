@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin-bottom:20px ;
+    
+}
+.in{
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgb(226, 226, 181);
+    max-width: fit-content;
+    padding: 40px;
+    margin: 0 auto;
+}
+.sign button{
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(93, 95, 235);
+    border-radius: 12px;
+}
+.up{
+    margin-top: 20px;
+}
